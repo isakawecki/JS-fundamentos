@@ -141,12 +141,12 @@ do{
 
 //funções
 // function nome(arg1, arg2) {corpo}
-function cumprimentar(nome){
+function oi(nome){
         console.log("Olá" + nome)
 }
 
 //invocacao = nome()
-cumprimentar("Bella");
+oi("Bella");
 
 //escopo de variáveis
 let cor = "azul";
