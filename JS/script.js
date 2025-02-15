@@ -167,3 +167,8 @@ frutas.push("laranja");  // Adiciona "laranja" no final do array
 
 console.log(frutas)  // ["maçã", "banana", "laranja"]
 
+//join 
+let frutas = ["maçã", "banana", "laranja"];
+let listaFrutas = frutas.join(", ");  // Junta os elementos com uma vírgula e espaço
+console.log(listaFrutas);  // "maçã, banana, laranja"
+
