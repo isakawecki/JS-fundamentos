@@ -161,3 +161,9 @@ console.log(cor);
 mostrarCor();
 
 
+//push
+let frutas = ["maçã", "banana"];
+frutas.push("laranja");  // Adiciona "laranja" no final do array
+
+console.log(frutas);  // ["maçã", "banana", "laranja"]
+
