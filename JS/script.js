@@ -172,3 +172,8 @@ let frutas = ["maçã", "banana", "laranja"];
 let listaFrutas = frutas.join(", ");  // Junta os elementos com uma vírgula e espaço
 console.log(listaFrutas);  // "maçã, banana, laranja"
 
+//length
+let numeros = [1, 2, 3, 4, 5];
+console.log(numeros.length); // Saída: 5
+//numeros.length retorna o número de elementos no array numeros.
+
